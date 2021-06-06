@@ -1,0 +1,10 @@
+C:\Users\Teftis\source\repos\Ege Browser\Ege Browser\bin\Debug\Ege Browser.exe.config
+C:\Users\Teftis\source\repos\Ege Browser\Ege Browser\bin\Debug\Ege Browser.exe
+C:\Users\Teftis\source\repos\Ege Browser\Ege Browser\bin\Debug\Ege Browser.pdb
+C:\Users\Teftis\source\repos\Ege Browser\Ege Browser\obj\Debug\Ege Browser.csproj.AssemblyReference.cache
+C:\Users\Teftis\source\repos\Ege Browser\Ege Browser\obj\Debug\Ege_Browser.Form1.resources
+C:\Users\Teftis\source\repos\Ege Browser\Ege Browser\obj\Debug\Ege_Browser.Properties.Resources.resources
+C:\Users\Teftis\source\repos\Ege Browser\Ege Browser\obj\Debug\Ege Browser.csproj.GenerateResource.cache
+C:\Users\Teftis\source\repos\Ege Browser\Ege Browser\obj\Debug\Ege Browser.csproj.CoreCompileInputs.cache
+C:\Users\Teftis\source\repos\Ege Browser\Ege Browser\obj\Debug\Ege Browser.exe
+C:\Users\Teftis\source\repos\Ege Browser\Ege Browser\obj\Debug\Ege Browser.pdb
